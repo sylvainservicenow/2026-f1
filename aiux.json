@@ -1,0 +1,11 @@
+{
+  "name": "2026-F1",
+  "basename": "2026-f1",
+  "landing": "/race-control",
+  "development": {
+    "token": ""
+  },
+  "build": {
+    "exclude": ["**/*.test.js", "**/test/**"]
+  }
+}

@@ -1,0 +1,16 @@
+.DS_Store
+*.tsbuildinfo
+node_modules/
+dist/
+dist-metadata/
+target/
+.now/
+.claude/skills/
+.agents/skills
+.agents/cache/
+.env
+*.local
+pages/.widget-sandbox/
+pages/.widget-sandbox-bare/
+
+.jest_cache

@@ -1,0 +1,15 @@
+{
+  "scope": "x_snc_2026_f1",
+  "scopeId": "7abb0226995a4e9c99e30e36c28d97a7",
+  "name": "2026-F1",
+  "metadataDir": "src/plugin-xmls",
+  "appOutputDir": "dist-metadata/app",
+  "packageSourceCodeOnInstance": true,
+  "staticContent": {
+    "assets": {
+      "./public/**": {
+        "publicPath": "[$config.aiux.basename]/public"
+      }
+    }
+  }
+}
